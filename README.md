@@ -1,5 +1,5 @@
 # cmudict-ipa
-CMU Pronouncing Dictionary converted to IPA
+CMU Pronouncing Dictionary converted to IPA by Alexander Piperski
 
 cmudict-0.7b-ipa.txt includes all the entries from the CMU Pronouncing Dictionary (version 0.7b; http://www.speech.cs.cmu.edu/cgi-bin/cmudict) automatically converted to the International Phonetic Alphabet (IPA). Each line contains a headword separated by a tab symbol from its transcription(s); variant forms are separated by ", ".
 
