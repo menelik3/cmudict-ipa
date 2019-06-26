@@ -59,7 +59,6 @@
 --DASH	"d{S
 -DASH	"d{S
 -HYPHEN	"haIf@n
-.	"dA:t
 ...ELLIPSIS	%I"lIpsIs
 .DECIMAL	"dEs@m@l
 .DOT	"dA:t
