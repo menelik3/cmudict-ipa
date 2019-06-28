@@ -110491,7 +110491,7 @@ TAFOYA	tA:"fOI@
 TAFT	"t{ft
 TAFT'S	"t{fts
 TAG	"t{g
-TAGALOG	"t{g@%lA:g
+TAGALOG	t@"gA:l@g, t@"g{l@g, "t{g@%lA:g
 TAGAMET	"t{g@"mEt
 TAGANKA	t@"gA:Nk@
 TAGER	"teIgE`
